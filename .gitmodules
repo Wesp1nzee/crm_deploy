@@ -1,0 +1,6 @@
+[submodule "crm-expertiz"]
+	path = crm-expertiz
+	url = https://github.com/Wesp1nzee/crm-expertiz.git
+[submodule "crm-frontend"]
+	path = crm-frontend
+	url = https://github.com/Wesp1nzee/crm-frontend.git
